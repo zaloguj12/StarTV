@@ -1,0 +1,65 @@
+* {
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+body {
+    background-color: rgb(187, 219, 217);
+}
+
+video {
+    background: #000706;
+}
+
+#logo {
+    height: 14vh;
+}
+
+#viewer {
+    aspect-ratio: 16 / 9;
+    width: 60%;
+    display: block;
+    border-radius: 30px;
+    border: solid;
+    border-color: rgb(42, 0, 158);
+}
+
+#title {
+    font-size: 30px;
+    margin-bottom: 7px;
+}
+
+#randBtn {
+    margin-right: 3px;
+    border-radius: 10px;
+    border-width: 0;
+    font-size: 19px;
+}
+
+#likeBtn {
+    margin-right: 3px;
+    border-radius: 10px;
+    border-width: 0;
+    font-size: 19px;
+}
+
+#dLikeBtn {
+    border-radius: 10px;
+    border-width: 0;
+    font-size: 19px;
+    font-size: 19px;
+}
+
+.topBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.intBar {
+    display: flex;
+    flex-direction: row;
+    width: 55%;
+    justify-content: right;
+}
