@@ -5,7 +5,7 @@ import json
 
 app = FastAPI()
 
-app.mount("/videos", StaticFiles(directory="videos"), name="videos")
+app.mount("/videos", StaticFiles(directory="videos"), name="videos") # attach the videos folder
 
 with open("videos.json", "r", encoding="utf-8") as f:
     db = json.load(f)
