@@ -1,0 +1,21 @@
+{
+    "videos": [
+        {
+            "id": "1",
+            "title": "Looping the Rooms ft. Hatsune Miku (2025)",
+            "file": "videos/1.mp4"
+        },
+
+        {
+            "id": "2",
+            "title": "Gaming on a Receipt Printer (2025)",
+            "file": "videos/2.mp4"
+        },
+
+        {
+            "id": "3",
+            "title": "The SAD BEIGE Moms of TikTok (2024)",
+            "file": "videos/3.mp4"
+        }
+    ]
+}
