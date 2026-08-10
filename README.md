@@ -25,3 +25,10 @@ StarTV/
     ├──script.js
     └──style.css
 ```
+
+# Deployment
+
+```
+cd backend
+uvicorn main:app --reload
+```
