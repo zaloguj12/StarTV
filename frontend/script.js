@@ -4,7 +4,7 @@ async function loadRandomVideo() {
     const video = document.getElementById("viewer");
     const source = document.getElementById("source");
 
-    source.src = "/" + data.file;
+    source.src = data.file;
     video.load();
     document.getElementById("title").textContent = data.title;
 }

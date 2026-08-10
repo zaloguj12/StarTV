@@ -3,7 +3,7 @@
         {
             "id": "1",
             "title": "Looping the Rooms ft. Hatsune Miku (2025)",
-            "file": "videos/1.mp4"
+            "file": "https://pub-514f0311ebf34a1594a1fc60b08e5639.r2.dev/1.mp4"
         },
 
         {
@@ -15,7 +15,7 @@
         {
             "id": "3",
             "title": "The SAD BEIGE Moms of TikTok (2024)",
-            "file": "videos/3.mp4"
+            "file": "https://pub-514f0311ebf34a1594a1fc60b08e5639.r2.dev/3.mp4"
         }
     ]
 }
