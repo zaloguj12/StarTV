@@ -13,7 +13,7 @@ FRONTEND_DIR = os.path.join(BASE_DIR, "frontend")
 VIDEOS_DIR = os.path.join(BASE_DIR, "videos")
 VIDEOS_JSON = os.path.join(BASE_DIR, "videos.json")
 
-app.mount("/static", StaticFiles(directory=FRONTEND_DIR), name="static") # attach the frontend folder
+app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend") # attach the frontend folder
 
 app.mount("/videos", StaticFiles(directory=VIDEOS_DIR), name="videos") # attach the videos folder
 
