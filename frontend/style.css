@@ -31,7 +31,8 @@ video {
 
 #fox {
     aspect-ratio: 9 / 16;
-    height: 10%;
+    height: 100px;
+    width: 56.25;
 }
 
 #title {
