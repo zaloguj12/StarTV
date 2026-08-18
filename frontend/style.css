@@ -41,6 +41,7 @@ video {
     aspect-ratio: 9 / 16;
     height: 600px;
     width: 337.5px;
+    font-size: larger;
 }
 
 #title {
