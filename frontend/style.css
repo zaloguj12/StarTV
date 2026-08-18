@@ -16,6 +16,10 @@ video {
     height: 14vh;
 }
 
+#sorce {
+    height: 14vh;
+}
+
 #viewer {
     aspect-ratio: 16 / 9;
     width: 60%;
