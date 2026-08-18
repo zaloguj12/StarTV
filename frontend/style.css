@@ -29,6 +29,11 @@ video {
     border-color: rgb(42, 0, 158);
 }
 
+#fox {
+    aspect-ratio: 9 / 16;
+    height: 50%;
+}
+
 #title {
     font-size: 30px;
     margin-bottom: 7px;
