@@ -37,17 +37,10 @@ video {
     font-size: 19px;
 }
 
-#likeBtn {
+#sgBtn {
     margin-right: 3px;
     border-radius: 10px;
     border-width: 0;
-    font-size: 19px;
-}
-
-#dLikeBtn {
-    border-radius: 10px;
-    border-width: 0;
-    font-size: 19px;
     font-size: 19px;
 }
 
