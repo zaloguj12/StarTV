@@ -33,6 +33,10 @@ video {
     aspect-ratio: 9 / 16;
     height: 600px;
     width: 337.5px;
+    padding-left: 15px;
+}
+
+#foxP {
     padding-left: 5px;
 }
 
