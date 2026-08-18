@@ -50,6 +50,11 @@ video {
     justify-content: space-between;
 }
 
+.midSec {
+    display: flex;
+    flex-direction: row;
+}
+
 .intBar {
     display: flex;
     flex-direction: row;
