@@ -5,22 +5,19 @@
 ### Backend --> Python with FastAPI
 ### Frontend --> HTML + CSS + JS
 ### Video Database --> JSON file with information about videos
-### Video Storage/Serving --> FastAPI static file mounting
+### Video Storage/Serving --> FastAPI static file mounting from an R2 Bucket dev link (dont have a domain lol)
 
 # File Architecture
 ```
 StarTV/
 |
-├──backend/
-|   ├──main.py          # FastAPI/Server
-|   ├──videos.json      # Videos Database
-|   └──videos/          # Local only
-|       ├──1.mp4
-|       ├──2.mp4
-|       └──3.mp4
+├──videos.json      # Videos Database
+|
+├──api/
+|   └──main.py      # FastAPI/Server
 |
 └──frontend/
-    ├──images/
+    ├──images and icons
     ├──index.html
     ├──script.js
     └──style.css
@@ -28,7 +25,4 @@ StarTV/
 
 # Deployment
 
-```
-cd backend
-uvicorn main:app --reload
-```
+Deployed with Vercel at [(SITE)](https://star-tv-ten.vercel.app/) with an R2 bucket from CloudFlare as video storage
