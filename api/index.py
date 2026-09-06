@@ -27,3 +27,7 @@ def home():
 @app.get("/video")
 def watch():
     return random.choice(db["videos"])
+
+@app.get("/videos")
+def list():
+    return db
