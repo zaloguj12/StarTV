@@ -25,4 +25,8 @@ StarTV/
 
 # Deployment
 
-Deployed with Vercel at [(SITE)](https://star-tv-ten.vercel.app/) with an R2 bucket from CloudFlare as video storage
+Deployed with Vercel at [(SITE)](https://star-tv-ten.vercel.app/) with an R2 bucket from CloudFlare as video storage.
+
+# Info
+
+This project is for [Stardance](stardance.hackclub.com), it's a YSWS program from Hackclub a non-profit that encourages teens to try out new things with technology.
