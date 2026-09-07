@@ -10,6 +10,8 @@ body {
     border-width: 2px;
     border-style: dashed;
     border-color: indigo;
+    border-spacing: 3px;
+    border-radius: 10px;
 }
 
 video {
