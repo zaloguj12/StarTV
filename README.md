@@ -29,4 +29,4 @@ Deployed with Vercel at [(SITE)](https://star-tv-ten.vercel.app/) with an R2 buc
 
 # Info
 
-This project is for [Stardance](stardance.hackclub.com), it's a YSWS program from Hackclub a non-profit that encourages teens to try out new things with technology.
+This project is for [Stardance](https://stardance.hackclub.com/), it's a YSWS program from Hackclub a non-profit that encourages teens to try out new things with technology.
