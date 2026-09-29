@@ -6,12 +6,19 @@
 
 body {
     background-color: rgb(229, 203, 173);
+    margin: 0;
+}
+
+.sitewh {
     box-sizing: border-box;
     border-width: 2px;
     border-style: dashed;
     border-color: indigo;
     border-spacing: 3px;
     border-radius: 10px;
+    min-width: 100%;
+    width: max-content;
+    margin: 2px 2px 2px 2px;
 }
 
 video {
