@@ -17,7 +17,7 @@ body {
     border-spacing: 3px;
     border-radius: 10px;
     min-width: 100%;
-    width: max-content;
+    width: fit-content;
     margin: 2px 2px 2px 2px;
 }
 
