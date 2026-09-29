@@ -3,6 +3,10 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a6496d7-a8a0-499c-8ed3-12e29b66fb55" />
 
+### - Video randomizer
+### - Video list
+### - Video suggesting
+
 # Overview
 ### Backend --> Python with FastAPI
 ### Frontend --> HTML + CSS + JS
